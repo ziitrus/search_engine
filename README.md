@@ -11,6 +11,6 @@ Mieux comprendre les moteurs de recherche et les systèmes d'indexation
 
 ## Todo
 
-- [] Indexation
-- [] Système de query sur les index
-- [] Recherche avec des booléens
+- [ ] Indexation
+- [ ] Système de query sur les index
+- [ ] Recherche avec des booléens
